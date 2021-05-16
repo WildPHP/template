@@ -1,6 +1,7 @@
 {
   "name": "wildphp/template",
-  "description": "Magically simple model class",
+  "description": "Template project for WildPHP components",
+  "type": "project",
   "minimum-stability": "stable",
   "license": "MIT",
   "require": {
