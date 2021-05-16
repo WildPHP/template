@@ -80,3 +80,4 @@ composer.phar
 # composer.lock
 .phpunit.result.cache
 .idea/sonarlint
+composer.lock
